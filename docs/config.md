@@ -19,14 +19,14 @@ description: "Example config file for JMusicBot"
 // If you don't know how to get a bot token, please see the guide here:
 // https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token
 
-token = BOT_TOKEN_HERE
+token = MTAyNDI0MTE3OTQ5NzM0OTE2MA.GwC-aO.Mmuje1jeusypikgkul-UCoTmPnAgs-s1x-i3jU
 
 
 // This sets the owner of the bot
 // This needs to be the owner's ID (a 17-18 digit number)
 // https://github.com/jagrosh/MusicBot/wiki/Finding-Your-User-ID
 
-owner = 0
+owner = 937649643699974164
 
 
 // This sets the prefix for the bot
